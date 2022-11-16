@@ -1,0 +1,12 @@
+D:\Nashan\sources\AzureServiceBus\SampleShared\bin\Debug\net6.0\SampleShared.deps.json
+D:\Nashan\sources\AzureServiceBus\SampleShared\bin\Debug\net6.0\SampleShared.dll
+D:\Nashan\sources\AzureServiceBus\SampleShared\bin\Debug\net6.0\SampleShared.pdb
+D:\Nashan\sources\AzureServiceBus\SampleShared\obj\Debug\net6.0\SampleShared.csproj.AssemblyReference.cache
+D:\Nashan\sources\AzureServiceBus\SampleShared\obj\Debug\net6.0\SampleShared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nashan\sources\AzureServiceBus\SampleShared\obj\Debug\net6.0\SampleShared.AssemblyInfoInputs.cache
+D:\Nashan\sources\AzureServiceBus\SampleShared\obj\Debug\net6.0\SampleShared.AssemblyInfo.cs
+D:\Nashan\sources\AzureServiceBus\SampleShared\obj\Debug\net6.0\SampleShared.csproj.CoreCompileInputs.cache
+D:\Nashan\sources\AzureServiceBus\SampleShared\obj\Debug\net6.0\SampleShared.dll
+D:\Nashan\sources\AzureServiceBus\SampleShared\obj\Debug\net6.0\refint\SampleShared.dll
+D:\Nashan\sources\AzureServiceBus\SampleShared\obj\Debug\net6.0\SampleShared.pdb
+D:\Nashan\sources\AzureServiceBus\SampleShared\obj\Debug\net6.0\ref\SampleShared.dll
